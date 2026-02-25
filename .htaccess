@@ -1,1 +1,2 @@
 Redirect 301 /.well-known https://matrix.tsuki.games/.well-known
+Header always set Access-Control-Allow-Origin: "*"
